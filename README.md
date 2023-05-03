@@ -12,7 +12,7 @@ PROBLEM STATEMENT WILL GO HERE.
 
 The following rules will apply. Breaking any rule will result in you immediately receiving `0` points.
 
-1. You can use any resource, local and online. You are not allowed to communicate with any other person during the exam. You can start the exam with any project created beforehand.
+1. You can use any resource, local and online. You are not allowed to communicate with any other person during the exam. You can start the exam with any project created beforehand. You can use ChatGPT, Github Copilot and any other similar AI-based software. 
 2. The exam will start with a written, `10` minute multiple choice test on a platform like Google Forms.
 3. The exam will continue with a practical, `3` hour test where you will have to write a full stack application.  
 3.1. You will not be asked to deploy your application.  
