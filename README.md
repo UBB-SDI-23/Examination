@@ -18,7 +18,7 @@ The following rules will apply. Breaking any rule will result in you immediately
 3.1. You will not be asked to deploy your application.  
 3.2. You can be asked to do anything talked about during the lecture and anything that you can reasonably be expected to figure out on your own using the skills you should have acquired during the class.
 4. Evaluation during the regular session:  
-4.1. You will have to solve the requirements in the order that they appear in. You cannot be marked for requirement `2` without first receiving full marks for requirement `1`.  
+4.1. You will have to solve the requirements in the order that they appear in. For example, you cannot be marked for requirement `2` without first receiving full marks for requirement `1`.  
 4.2. You should commit and push everything to feature branches called `requirement-x`. This way you can continue working until the examiner comes to check your work. Once that happens, you can stage your current code, switch to the necessary branch, present and then switch back to your current branch.  
 4.3. Each question on the written test and each requirement on the practical test will be worth `1 snowflake`.  
 4.4. Your final points will be calculated as follows:  
@@ -32,5 +32,5 @@ The following rules will apply. Breaking any rule will result in you immediately
     For example, if you were to accumulate `14` snowflakes and the maximum on your exam day was `23` then your points would be `3 * 14 / 23 = 1.82608695652`
     
 5. Evaluation during the retake session:  
-4.1. For the retake session, your snowflakes will instead be divided by a constant that will be announced on the day of the exam.
+5.1. For the retake session, your snowflakes will instead be divided by a constant that will be announced on the day of the exam.
 
