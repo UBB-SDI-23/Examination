@@ -6,8 +6,7 @@ The exam requirements will appear here on each day. You will need to accept an a
 
 ### June 26 Exam
 
-PROBLEM STATEMENT WILL GO HERE.
-
+[Click here.](https://classroom.github.com/a/osH-DI-V)
 ---
 
 The following rules will apply. Breaking any rule will result in you immediately receiving `0` points.
