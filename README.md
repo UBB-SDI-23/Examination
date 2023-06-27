@@ -10,6 +10,8 @@ The exam requirements will appear here on each day. You will need to accept an a
 
 ### June 27 Exam
 
+[Click here.](https://classroom.github.com/a/dC-WJ6Gu)
+
 ---
 
 The following rules will apply. Breaking any rule will result in you immediately receiving `0` points.
