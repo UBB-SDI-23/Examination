@@ -14,6 +14,7 @@ The exam requirements will appear here on each day. You will need to accept an a
 
 ### June 29 Exam
 
+[Click here](https://classroom.github.com/a/5nkAAn5g).
 
 ---
 
