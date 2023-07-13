@@ -16,6 +16,10 @@ The exam requirements will appear here on each day. You will need to accept an a
 
 [Click here](https://classroom.github.com/a/5nkAAn5g).
 
+### July 13 Exam
+
+[Click here](https://classroom.github.com/a/UkDcLCkt).
+
 ---
 
 The following rules will apply. Breaking any rule will result in you immediately receiving `0` points.
